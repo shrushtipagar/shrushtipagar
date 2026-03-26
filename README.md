@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrushtipagar&label=Profile%20views&color=0e75b6&style=flat" alt="shrushtipagar" /> </p>
 
-- 🔭 I’m currently working on **Data Mining mini projects and python projests to**
+- 🔭 I’m currently working on **Data Mining mini projects and python projects to**
 
 - 👯 I’m looking to collaborate on **Java and Python based beginner projects**
 
