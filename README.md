@@ -3,14 +3,21 @@
 <!--
 **shrushtipagar/shrushtipagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi there!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I’m a 2nd Year BTech CSE student at D Y Patil International University  
+
+💻 Skills:
+- ☕ Java
+- 🐍 Python
+- 📊 Data Mining  
+
+🚀 Currently:
+- 🌱 Learning new technologies and improving problem-solving skills  
+- 👯 Looking to collaborate on beginner-friendly and innovative projects  
+
+📫 How to reach me:
+- ✉️ Email: shrushtipagar31@gmail.com
+
+⚡ Fun fact:
+- I love exploring new tech and building useful projects!
